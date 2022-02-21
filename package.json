@@ -1,0 +1,23 @@
+{
+  "name": "neog-camp-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayeshwalavalkar/neog-camp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayeshwalavalkar/neog-camp/issues"
+  },
+  "homepage": "https://github.com/jayeshwalavalkar/neog-camp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
